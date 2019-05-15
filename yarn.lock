@@ -18926,6 +18926,7 @@ __metadata:
     simple-get: "npm:^3.0.3"
     tar: "npm:^4.4.8"
     tunnel-agent: "npm:^0.6.0"
+  checksum: ecf63c97c712606da198c6cc8ced123bcb110643ec8f346cfef36d7d490461fc9030ca6cf0ed4b7d3d89b792ec593f1aff926779063c8bc3b4a084c63b6c9da4
   languageName: node
   linkType: hard
 
